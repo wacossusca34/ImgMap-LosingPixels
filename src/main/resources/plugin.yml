@@ -1,5 +1,5 @@
-name: ImgMap
-version: 3
+name: ImgMapAPI
+version: 3.0.1
 main: com.tenko.ImgMap
 
 commands:
